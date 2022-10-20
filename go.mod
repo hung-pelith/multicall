@@ -1,4 +1,4 @@
-module github.com/howjmay/multicall
+module github.com/hung-pelith/multicall
 
 go 1.18
 
